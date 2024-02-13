@@ -2,7 +2,7 @@
  * File:   main.cpp
  * Author: Arlin Alzate
  *
- * Created on February 6, 2024, 2:13 PM
+ * Created on February 10, 2024, 3:18 PM
  * Purpose: To emulate a Pirinola Game, where the user inputs names and rounds
  *          are desired to be played. 
  * 
